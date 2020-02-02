@@ -13,4 +13,4 @@ class Person
 end
 
 
-delilah = Person.new("Delilah")
+meg = Person.new("Meg")
