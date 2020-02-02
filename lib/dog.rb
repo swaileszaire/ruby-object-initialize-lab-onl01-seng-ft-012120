@@ -19,4 +19,4 @@ end
 end
 
 
-chelsea = Dog.new("Chelsea", "Mutt")
+chelsea = Dog.new("Chelsea", "Pug")
