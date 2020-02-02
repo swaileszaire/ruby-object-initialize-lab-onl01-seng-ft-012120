@@ -12,10 +12,12 @@ class Dog
    def name 
     @name
   end
+end
   
   def breed
     @breed
   end
+end
 
 
 chelsea = Dog.new("Chelsea", "Mut")
